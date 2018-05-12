@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8194
     wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32902#Villa-Eden--The-Country-House-on-the-Rhine
 gutenberg_issued: '2010-06-19'
 gutenberg_type: Text
 identifiers:
