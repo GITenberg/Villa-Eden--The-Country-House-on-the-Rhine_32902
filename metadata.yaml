@@ -1,0 +1,38 @@
+_repo: Villa-Eden--The-Country-House-on-the-Rhine_32902
+_version: 0.1.0
+alternative_title: Das landhaus am Rhein. English
+contributor:
+  translator:
+    agent_name: Shackford, Charles C. (Charles Chauncy)
+    birthdate: 1815
+    deathdate: 1891
+    gutenberg_agent_id: '36100'
+    url: http://www.gutenberg.org/2009/agents/36100
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Auerbach, Berthold
+    alias: Baruch, Moses
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '8194'
+    url: http://www.gutenberg.org/2009/agents/8194
+    wikipedia: http://en.wikipedia.org/wiki/Berthold_Auerbach
+description: ''
+gutenberg_issued: '2010-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Rhine River Valley -- Fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: 'Villa Eden: The Country-House on the Rhine'
+url: http://www.gutenberg.org/ebooks/32902
